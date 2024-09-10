@@ -42,7 +42,7 @@ For fellow AI enthusiasts willing to **try their own model** or **people wanting
 
 
 ## 🌸 Dedications & Declarations
-The team would also like to appreciate **Ma'am Marizel Villanuweva** for her support as team coach in this endeavor.
+The team would also like to appreciate **Ma'am Marizel Villanueva** for her support as team coach in this endeavor.
 
 This project is **OPEN SOURCE** with the standard MIT License; feel free to **modify** for further innovations! While our part may be over, features such as alert systems and more may be implemented to improve the application for end users.
 
