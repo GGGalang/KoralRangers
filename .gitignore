@@ -1,0 +1,5 @@
+#Model is too big for GitHub to host. Download the model in the README or use your own!
+app/src/main/ml/model.tflite
+
+#Ignore release APK. Download the APK in the README or build your own!
+app/release/KoralRangers.apk
