@@ -15,10 +15,10 @@ Head to the **[Releases Page](https://github.com/GGGalang/KoralRangers/releases)
 You may also download our latest & most accurate TFLite model using **[this Google Drive link](https://drive.google.com/file/d/1do-eYXFRqS7pzwgHCiVvERrCsht3fbVa/view?usp=drive_link)** for further testing!
 
 ## 📌 Table of Contents
-- [About](#about)
-- [Building & Installation](#builds)
-- [Dedications & Declarations](#dedications)
-- [Resources](#resources)
+- [About](#%EF%B8%8F-about)
+- [Building & Installation](#-builds--installations)
+- [Dedications & Declarations](#-builds--installations)
+- [Resources](#-resources)
 
 
 ## ⁉️ About
