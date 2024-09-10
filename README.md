@@ -22,7 +22,7 @@ You may also download our latest & most accurate TFLite model using **[this Goog
 
 
 ## ⁉️ About
-**A Submission to the 2024 Youth Innovation Challenge of Malaysia**, the **Koral Rangers** application allows anyone to easily detect coral bleaching using pictures of corals.
+**A Submission to the 2024 Young Innovation Challenge of Malaysia**, the **Koral Rangers** application allows anyone to easily detect coral bleaching using pictures of corals.
 - **Have past experiences with corals?** Load images from device storage and check their health!
 - **Want to check nearby corals?** Open your camera and snap a photo!
 - **Want to learn a little something?** Open the about page to learn more about bleaching and the project!
